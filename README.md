@@ -38,3 +38,4 @@
 7. **Access the Application**
     - Open your browser and go to: [http://localhost:8000](http://localhost:8000)
     - For the admin panel, visit: [http://localhost:8000/admin](http://localhost:8000/admin)
+8. **Thanks for using my project
